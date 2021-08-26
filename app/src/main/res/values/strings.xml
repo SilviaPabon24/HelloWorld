@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="dog_search">Dog Search</string>
+    <string name="with_dog_api">with Dog API</string>
+    <string name="start">START</string>
+    <string name="podr_s_buscar_la_raza_de_tu_can_favorito_y_encontrar_s_im_genes">Podrás buscar la raza de tu can favorito y encontrarás imágenes.</string>
+    <string name="iniciar">iniciar</string>
+    <string name="ir_a_buscar">¡Ir a buscar!</string>
+</resources>
