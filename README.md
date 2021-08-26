@@ -1,4 +1,4 @@
-# Hello Word Móvil
+# Hello World Móvil
 ## ¿Qué se hizo?
 En esta ocasión se creó un proyecto de tipo hola mundo utilizando Android Studio en lenguaje Kotlin.
 1. Como primer paso se configuró un proyecto con dos vistas MainActivity1 y MainActivity.
